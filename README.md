@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on cre
 - 👯 I’m looking to collaborate on exciting projects related to web development and design.
 - 💬 Ask me about web development, JavaScript, CSS, or any cool tech stuff!
 - 😄 Fun fact: Break your tasks into bite-sized pieces and munch through them one by one. Soon,                     you'll have devoured the whole project and be ready for the dessert!
-- 😈 Dark Fact : The Hell Mode is on seize the time to learn and grow while you can, because once time takes hold, it will dictate your pace.
+- 😈 Dark Fact : The Life is in Hell Mode so seize the time to learn and grow while you can, because once time takes hold, it will dictate your pace.
 
 ## 🛠️ Technologies & Tools
 
